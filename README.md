@@ -4,7 +4,7 @@ This project performs Exploratory Data Analysis (EDA) on Diwali Sales data using
 
 ## 📂 Project Structure
 - **dataset/** → contains the dataset `Diwali Sales Data.csv`
-- **notebooks/** → contains the analysis notebook `Diwali_Sales_Analysis.ipynb`
+- **notebooks/** → contains the analysis notebook `project.ipynb`
 
 ## 🧰 Tools Used
 - Python
